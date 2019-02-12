@@ -93,8 +93,8 @@ a, a > code {
 }
 .title-slide {
   background-color: #1c5253;
-  
-  
+  background-image: url(pic/pylori.jpg);
+  background-size: cover;
   
 }
 .title-slide .remark-slide-number {

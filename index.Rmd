@@ -22,7 +22,8 @@ mono_light(
   # text_font_google   = google_font("M PLUS Rounded 1c", "300", "300i"),
   text_font_google = google_font("Noto Sans JP", "300", "300i"), 
   code_font_google   = google_font("Droid Mono"),
-  text_bold_color = "#B03A2E"
+  text_bold_color = "#B03A2E",
+  title_slide_background_image = "pic/pylori.jpg"
 )
 # write_xaringan_theme(text_bold_color = "#FF4333")
 ```
@@ -52,3 +53,25 @@ class: middle
 class: middle, center, inverse
 
 ## 文献とはなーに？ <br> What is literature?
+
+
+---
+class: middle
+
+#### ある研究結果のまとめ？専門家から系統的な意見を発表する？<br> Papers with results and records of research, study, experience, experiment, or observation.
+
+#### 今までわかったこと，別の研究者の同じ問題について考え方などを載せてある．<br> What have been done/known so far, and what others think about this issue. 
+
+#### 教科書や科学雑誌に採用される文章？<br> Papers published in textbooks or scientific journals (Science, Nature, etc.)
+
+#### 教科書は比較的にアップデートされるのが遅い傾向がある．<br> Textbooks are usually updated rarely and out-of-date.
+
+---
+class: middle, center, inverse
+
+## なぜ検索しなければならない？<br> Why do we need literature retrieval?
+
+---
+class: middle
+
+
